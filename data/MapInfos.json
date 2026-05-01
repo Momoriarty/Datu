@@ -1,8 +1,4 @@
 [
 null,
-<<<<<<< Updated upstream
-{"id":1,"expanded":false,"name":"MAP001","order":1,"parentId":0,"scrollX":1216.5,"scrollY":692.25}
-=======
-{"id":1,"expanded":false,"name":"MAP001","order":1,"parentId":0,"scrollX":1081.3333333333333,"scrollY":615.3333333333334}
->>>>>>> Stashed changes
+{"id":1,"expanded":false,"name":"MAP001","order":1,"parentId":0,"scrollX":973,"scrollY":1074.5}
 ]
