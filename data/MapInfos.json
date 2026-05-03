@@ -1,8 +1,8 @@
 [
 null,
-{"id":1,"expanded":false,"name":"Map Utama","order":1,"parentId":0,"scrollX":648.8,"scrollY":694.8},
-{"id":2,"expanded":false,"name":"Rumah Korban","order":2,"parentId":0,"scrollX":655.2,"scrollY":399.6},
-{"id":3,"expanded":false,"name":"Tempat Pemasungan","order":3,"parentId":0,"scrollX":655.2,"scrollY":399.6},
-{"id":4,"expanded":false,"name":"Hutan","order":4,"parentId":0,"scrollX":540.6666666666666,"scrollY":483},
+{"id":1,"expanded":false,"name":"Map Utama","order":1,"parentId":0,"scrollX":832,"scrollY":854.8},
+{"id":2,"expanded":false,"name":"Rumah Korban","order":2,"parentId":0,"scrollX":832,"scrollY":640},
+{"id":3,"expanded":false,"name":"Tempat Pemasungan","order":3,"parentId":0,"scrollX":832,"scrollY":640},
+{"id":4,"expanded":false,"name":"Hutan","order":4,"parentId":0,"scrollX":832,"scrollY":640},
 {"id":5,"expanded":false,"name":"Danau Toba","order":5,"parentId":0,"scrollX":1036,"scrollY":816}
 ]
