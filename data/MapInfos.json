@@ -1,6 +1,6 @@
 [
 null,
-{"id":1,"expanded":false,"name":"Map Utama","order":1,"parentId":0,"scrollX":1081.3333333333333,"scrollY":662},
-{"id":2,"expanded":false,"name":"Rumah Korban","order":2,"parentId":0,"scrollX":540.6666666666666,"scrollY":331},
-{"id":3,"expanded":false,"name":"Tempat Pemasungan","order":3,"parentId":0,"scrollX":1092,"scrollY":586}
+{"id":1,"expanded":false,"name":"Map Utama","order":1,"parentId":0,"scrollX":1081.3333333333333,"scrollY":624.6666666666666},
+{"id":2,"expanded":false,"name":"Rumah Korban","order":2,"parentId":0,"scrollX":819,"scrollY":439.5},
+{"id":3,"expanded":false,"name":"Tempat Pemasungan","order":3,"parentId":0,"scrollX":819,"scrollY":439.5}
 ]
